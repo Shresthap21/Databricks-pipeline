@@ -96,4 +96,5 @@ Through this project, I learned how to:
 
 ## Article
 
-A detailed walkthrough of this project link
+A detailed walkthrough of this project link:
+https://dev.to/shresthapandey/my-first-end-to-end-data-pipeline-in-databricks-4ajm
